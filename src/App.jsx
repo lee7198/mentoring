@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div id="content">
-      <h1>안녕</h1>
+      <h1>안녕하세요</h1>
       <p>
         <b>Lorem ipsum </b> dolor sit,
         <br /> amet consectetur adipisicing elit. Est non nemo quae dolor dolore
